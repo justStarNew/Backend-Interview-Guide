@@ -12,4 +12,4 @@
 - [TopK](doc/TopK.md)
 - [扫二维码登录过程](doc/扫二维码登录过程.md)
 
-订阅 [专栏](https://xiaozhuanlan.com/CyC2018) 以获取全部全部内容。
+订阅 [专栏](https://xiaozhuanlan.com/CyC2018) 以获取全部内容。
